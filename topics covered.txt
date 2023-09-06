@@ -1,0 +1,6 @@
+1. NPM
+	a.	npm init
+
+moment package
+
+2. git/github
